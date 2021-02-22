@@ -1,0 +1,16 @@
+C:\Users\nik\Desktop\Alna Software Internship\Assignment 1 (Clock)\bin\Debug\net5.0\Assignment 1 (Clock).exe
+C:\Users\nik\Desktop\Alna Software Internship\Assignment 1 (Clock)\bin\Debug\net5.0\Assignment 1 (Clock).deps.json
+C:\Users\nik\Desktop\Alna Software Internship\Assignment 1 (Clock)\bin\Debug\net5.0\Assignment 1 (Clock).runtimeconfig.json
+C:\Users\nik\Desktop\Alna Software Internship\Assignment 1 (Clock)\bin\Debug\net5.0\Assignment 1 (Clock).runtimeconfig.dev.json
+C:\Users\nik\Desktop\Alna Software Internship\Assignment 1 (Clock)\bin\Debug\net5.0\Assignment 1 (Clock).dll
+C:\Users\nik\Desktop\Alna Software Internship\Assignment 1 (Clock)\bin\Debug\net5.0\ref\Assignment 1 (Clock).dll
+C:\Users\nik\Desktop\Alna Software Internship\Assignment 1 (Clock)\bin\Debug\net5.0\Assignment 1 (Clock).pdb
+C:\Users\nik\Desktop\Alna Software Internship\Assignment 1 (Clock)\obj\Debug\net5.0\Assignment 1 (Clock).csprojAssemblyReference.cache
+C:\Users\nik\Desktop\Alna Software Internship\Assignment 1 (Clock)\obj\Debug\net5.0\Assignment 1 (Clock).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nik\Desktop\Alna Software Internship\Assignment 1 (Clock)\obj\Debug\net5.0\Assignment 1 (Clock).AssemblyInfoInputs.cache
+C:\Users\nik\Desktop\Alna Software Internship\Assignment 1 (Clock)\obj\Debug\net5.0\Assignment 1 (Clock).AssemblyInfo.cs
+C:\Users\nik\Desktop\Alna Software Internship\Assignment 1 (Clock)\obj\Debug\net5.0\Assignment 1 (Clock).csproj.CoreCompileInputs.cache
+C:\Users\nik\Desktop\Alna Software Internship\Assignment 1 (Clock)\obj\Debug\net5.0\Assignment 1 (Clock).dll
+C:\Users\nik\Desktop\Alna Software Internship\Assignment 1 (Clock)\obj\Debug\net5.0\ref\Assignment 1 (Clock).dll
+C:\Users\nik\Desktop\Alna Software Internship\Assignment 1 (Clock)\obj\Debug\net5.0\Assignment 1 (Clock).pdb
+C:\Users\nik\Desktop\Alna Software Internship\Assignment 1 (Clock)\obj\Debug\net5.0\Assignment 1 (Clock).genruntimeconfig.cache
